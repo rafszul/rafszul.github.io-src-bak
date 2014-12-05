@@ -1,6 +1,6 @@
 ---
 
-![sister](https://raw.githubusercontent.com/rafszul/rafszul.github.io/master/images/sister-4.png)
+![sister](https://raw.githubusercontent.com/rafszul/rafszul.github.io/master/sister-4.png)
 
 ---
 
